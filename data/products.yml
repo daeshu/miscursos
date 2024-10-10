@@ -1,31 +1,23 @@
 en:
-  title: <span>Features</span>
-  backgroundTitle: Features
-  portText: Ipsum cillum sint fugiat esse ipsum commodo. Fugiat laborum qui aliqua in.
+  title: <span>Características</span>
+  backgroundTitle: Características
+  portText: ""
   theme:
     - coverImage: /media/00-stairs.jpg
       cSlug: c1
-      name: Lorem ipsum ea voluptate
+      name: Acceso Gratuito e Ilimitado
       description: |
-        Nulla magna eiusmod ea eu irure exercitation non incididunt.
+        ¡Aprende a tu ritmo!
     - coverImage: /media/wave.jpg
       cSlug: c3
-      name: Cupidatat pariatur pariat
-      description: Consectetur pariatur deserunt in occaecat cillum id laboris proident ex irure sint amet id. Est ut dolore et exercitation. Dolor ex id ut proident ut pariatur est. Incididunt pariatur aliquip eu velit incididunt culpa adipisicing velit et excepteur est enim.
+      name: Contenido Actualizado Constantemente
+      description: Nuestro catálogo de cursos se actualiza regularmente con las
+        últimas tendencias y conocimientos en diversas áreas.
     - coverImage: /media/fog.jpg
       cSlug: c4
-      name: Aute elit minim magna
-      description: Est ut dolore et exercitation. Dolor ex id ut proident ut pariatur est. Incididunt pariatur aliquip eu velit incididunt culpa adipisicing velit et excepteur est enim.
-    - coverImage: /media/sand.jpeg
-      cSlug: c5
-      name: "Fugiat laborum qui aliqua in"
-      description: Multiple language can be used for the content,
-        and the editor is available in 30 languages
-    - name: Ipsum cillum
-      cSlug: c2
-      description: Fugiat laborum qui aliqua in. In tempor esse aute sint Lorem. Dolor
-        velit qui anim sunt mollit excepteur ipsum mollit quis.
-      coverImage: /media/symetry.jpg
+      name: Comunidad de Aprendizaje Activa
+      description: Interactúa con otros estudiantes, comparte tus experiencias y
+        resuelve tus dudas.
 fr:
   title: Galeries
   backgroundTitle: Galeries
